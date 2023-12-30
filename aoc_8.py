@@ -16,7 +16,6 @@ steps = 0
 instruction_num = 0
 
 position = network['AAA']
-looking = True
 while True:
     # print("position", position)
     next_direction = move_legened[instructions[instruction_num]]
